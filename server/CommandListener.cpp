@@ -48,12 +48,11 @@
 #include "FirewallController.h"
 #include "RouteController.h"
 #include "UidRanges.h"
+#include "QtiDataController.h"
 
 #ifdef QSAP_WLAN
 #include "qsap_api.h"
 #endif
-=======
->>>>>>> parent of 893c122... server: Add custom implementation for tethering and statistics
 
 #include <string>
 #include <vector>
